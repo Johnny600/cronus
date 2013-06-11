@@ -38,34 +38,6 @@
 
                                                                                               
 
-error_reporting(E_ALL);
-
-ini_set('display_errors', '0');
-
-require('lib/init.php');
-
-//Sets the url for the template.
-
-if (!isset($_GET['page'])) {
-    $page         = 'post';
-    $_GET['page'] = $page;
-}
-
-else
-    $page = $_GET['page'];
-
-//Lets Define the template function for the body
-function VIEW_page($page)
-{
-    
-    include("pages/$page" . '.tpl');
-}
-
-//Lets Start constructing the whole webpage;) Please Note 'head' and 'body' tags are used.
-VIEW_page($page);
-
-echo '</body>', "\n";
-
-echo '</html>', "\n";
+echo 'still uploading version 1!';
 
 ?>
