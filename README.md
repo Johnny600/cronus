@@ -21,3 +21,4 @@ sessions, none of the files downloaded are executable via your download folder a
 
 Version 2 will have db users and will list past downloads with suggestions if file is already downloaded to save 
 bandwidith. This script is to help you download those files that are too large to store on your P.C.
+Caution:Must be implemented on a enterprise class production server for private use only!
