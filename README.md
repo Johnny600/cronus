@@ -1,6 +1,6 @@
 cronus
 ======
-
+<<<THE BELOW PROJECT HAS BEEN DISCONTINUED>>>
 SYS_CRONUS
 
 2013 SYS_CRONUS. Developed solely by David Mabaso.
