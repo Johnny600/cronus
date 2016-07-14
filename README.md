@@ -1,7 +1,6 @@
 cronus
 ======
-<<<THE BELOW PROJECT HAS BEEN DISCONTINUED>>>
-SYS_CRONUS
+<<<>>>THE BELOW PROJECT HAS BEEN DISCONTINUED
 
 2013 SYS_CRONUS. Developed solely by David Mabaso.
 Email: davidntobeko@gmail.com
